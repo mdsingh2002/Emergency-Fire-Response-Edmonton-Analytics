@@ -38,7 +38,7 @@ City fire departments need to understand response times, event duration, neighbo
 ├── config/
 │   └── config.py           # Configuration management
 ├── Fire_Incident_PowerBI
-├── logs/                   # ETL execution logs
+├── clean_data.py           # Clean the data
 ├── main.py                 # Pipeline orchestration
 ├── requirements.txt        # Python dependencies
 ├── .env.example            # Environment variables template
