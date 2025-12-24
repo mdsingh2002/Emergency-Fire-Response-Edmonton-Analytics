@@ -37,9 +37,7 @@ City fire departments need to understand response times, event duration, neighbo
 │   └── schema.sql          # Database schema with tables, indexes, and views
 ├── config/
 │   └── config.py           # Configuration management
-├── powerbi/
-│   ├── POWERBI_SETUP_GUIDE.md
-│   └── dashboard_screenshots/
+├── Fire_Incident_PowerBI
 ├── logs/                   # ETL execution logs
 ├── main.py                 # Pipeline orchestration
 ├── requirements.txt        # Python dependencies
